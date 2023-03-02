@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/draft-storaz/static/css/main.0581318a.css",
+    "main.css": "/draft-storaz/static/css/main.85d64871.css",
     "main.js": "/draft-storaz/static/js/main.f9641a28.js",
     "static/media/logo.png": "/draft-storaz/static/media/logo.3b2d7fdffe7eff2f474b.png",
     "static/media/tel.svg": "/draft-storaz/static/media/tel.01a77e1c4348eff3144d35a320e725dd.svg",
     "static/media/time.svg": "/draft-storaz/static/media/time.62dbb43c2f6a82b1d62b2bfe341a3841.svg",
     "static/media/pin.svg": "/draft-storaz/static/media/pin.44707e77038d2a77467fc51f7bb3b7de.svg",
     "index.html": "/draft-storaz/index.html",
-    "main.0581318a.css.map": "/draft-storaz/static/css/main.0581318a.css.map",
+    "main.85d64871.css.map": "/draft-storaz/static/css/main.85d64871.css.map",
     "main.f9641a28.js.map": "/draft-storaz/static/js/main.f9641a28.js.map"
   },
   "entrypoints": [
-    "static/css/main.0581318a.css",
+    "static/css/main.85d64871.css",
     "static/js/main.f9641a28.js"
   ]
 }
