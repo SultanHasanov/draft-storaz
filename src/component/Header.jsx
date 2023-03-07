@@ -10,8 +10,10 @@ const Header = () => {
     <div>
       <header className="header_body">
         <div className="wrapper">
-        <img src={logo} alt="logo" />
-          <span id="wrapper_block">Аренда спецтехники</span>
+          <div>
+            <img className="wrapper_logo" src={logo} alt="logo" />
+            <span id="wrapper_block">Аренда спецтехники</span>
+          </div>
           <div>
             <span>
               <img src={time} alt="time" />
@@ -31,8 +33,10 @@ const Header = () => {
               <img src={tel} alt="tel" />
             </span>
 
-            <span id="wrapper_block">
-              +7 (499)929-96-66 +7 (985)364-55-18 +7 (985)226-20-30
+            <span id="wrapper_block_item">
+              <span>+7 (499)929-96-66</span>
+              <span>+7 (985)364-55-18</span>
+              <span>+7 (985)226-20-30</span>
             </span>
           </div>
         </div>
