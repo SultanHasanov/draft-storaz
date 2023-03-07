@@ -1,17 +1,21 @@
 {
   "files": {
-    "main.css": "/draft-storaz/static/css/main.d26b7df9.css",
-    "main.js": "/draft-storaz/static/js/main.605b0ea2.js",
+    "main.css": "/draft-storaz/static/css/main.3753cca6.css",
+    "main.js": "/draft-storaz/static/js/main.db50e365.js",
     "static/media/logo.png": "/draft-storaz/static/media/logo.dd1309de8b8bce9cf943.png",
+    "static/media/engineer.svg": "/draft-storaz/static/media/engineer.0d1afe3ffed2de825acac2fda765420e.svg",
+    "static/media/support.svg": "/draft-storaz/static/media/support.cb0a6daac7b791bde89b082bf25315b3.svg",
     "static/media/tel.svg": "/draft-storaz/static/media/tel.01a77e1c4348eff3144d35a320e725dd.svg",
+    "static/media/crane.svg": "/draft-storaz/static/media/crane.01962c11fcadbe442b5b872ae1037770.svg",
     "static/media/time.svg": "/draft-storaz/static/media/time.62dbb43c2f6a82b1d62b2bfe341a3841.svg",
     "static/media/pin.svg": "/draft-storaz/static/media/pin.44707e77038d2a77467fc51f7bb3b7de.svg",
+    "static/media/clock.svg": "/draft-storaz/static/media/clock.298121cc33403f5848b9a2d5892ad909.svg",
     "index.html": "/draft-storaz/index.html",
-    "main.d26b7df9.css.map": "/draft-storaz/static/css/main.d26b7df9.css.map",
-    "main.605b0ea2.js.map": "/draft-storaz/static/js/main.605b0ea2.js.map"
+    "main.3753cca6.css.map": "/draft-storaz/static/css/main.3753cca6.css.map",
+    "main.db50e365.js.map": "/draft-storaz/static/js/main.db50e365.js.map"
   },
   "entrypoints": [
-    "static/css/main.d26b7df9.css",
-    "static/js/main.605b0ea2.js"
+    "static/css/main.3753cca6.css",
+    "static/js/main.db50e365.js"
   ]
 }
