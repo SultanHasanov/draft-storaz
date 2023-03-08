@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/draft-storaz/static/css/main.cc3ec787.css",
-    "main.js": "/draft-storaz/static/js/main.6b1f22ce.js",
+    "main.css": "/draft-storaz/static/css/main.ccc66342.css",
+    "main.js": "/draft-storaz/static/js/main.4247670b.js",
     "static/media/logo.png": "/draft-storaz/static/media/logo.dd1309de8b8bce9cf943.png",
     "static/media/num3.svg": "/draft-storaz/static/media/num3.c22e8f927470724d52570599ce7da2d5.svg",
     "static/media/num2.svg": "/draft-storaz/static/media/num2.72794e15b895550b5fd2813f10e5b822.svg",
@@ -14,11 +14,12 @@
     "static/media/pin.svg": "/draft-storaz/static/media/pin.44707e77038d2a77467fc51f7bb3b7de.svg",
     "static/media/clock.svg": "/draft-storaz/static/media/clock.298121cc33403f5848b9a2d5892ad909.svg",
     "index.html": "/draft-storaz/index.html",
-    "main.cc3ec787.css.map": "/draft-storaz/static/css/main.cc3ec787.css.map",
-    "main.6b1f22ce.js.map": "/draft-storaz/static/js/main.6b1f22ce.js.map"
+    "static/media/arrow.svg": "/draft-storaz/static/media/arrow.dc155fa265182df1f6f282ac1d297df4.svg",
+    "main.ccc66342.css.map": "/draft-storaz/static/css/main.ccc66342.css.map",
+    "main.4247670b.js.map": "/draft-storaz/static/js/main.4247670b.js.map"
   },
   "entrypoints": [
-    "static/css/main.cc3ec787.css",
-    "static/js/main.6b1f22ce.js"
+    "static/css/main.ccc66342.css",
+    "static/js/main.4247670b.js"
   ]
 }
