@@ -72,3 +72,35 @@
         margin: 20px ;
     }
 }
+
+.static_footer{
+    padding: 30px 0 30px 0;
+    background: #2D2D2D;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    .static_footer_header{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        justify-content: space-evenly;
+        span{
+            margin-top: 25px;
+        }
+    }
+    @media (max-width:670px) {
+        .static_footer_header{
+            flex-direction: column;
+            span{
+                margin-top: 0;
+            }
+            img{
+                margin: 30px;
+            }
+        }
+        
+    }
+
+}
